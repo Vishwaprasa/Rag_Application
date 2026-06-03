@@ -1,5 +1,7 @@
-Langchain
-ipykernel
-jupyter
+fastapi
+uvicorn
 openai
-requests
+faiss-cpu
+python-dotenv
+pydantic
+numpy
