@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 secret_key.py
+app/config.py

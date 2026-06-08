@@ -3,7 +3,7 @@ from ingestion.preprocess import clean_text
 from ingestion.chunker import chunk_text
 from ingestion.indexer import Indexer
 
-file_path = "data/sample.txt"
+file_path = r"C:\D\Working\Projects\Rag_Application\data\sample.txt"
 
 text = load_text(file_path)
 text = clean_text(text)
